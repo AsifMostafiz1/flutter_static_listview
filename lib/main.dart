@@ -72,8 +72,8 @@ class MyListView extends StatelessWidget {
 
 
           ListTile(
-            leading: Icon(Icons.card_giftcard),
-            title: new Text('Gift Card'),
+            leading: Icon(Icons.computer),
+            title: new Text('computer'),
             subtitle: new Text('This is available now'),
             onTap: (){
               print("Fifth");
